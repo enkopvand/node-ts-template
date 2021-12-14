@@ -1,21 +1,3 @@
-helios-shared-ts-template
-
-
-npm init
-npm install -D typescript
-npm i -D --save-exact prettier
-.prettierrc.json
-.prettierignore
-npx tsc --init
-Add changes to tsconfig.json
-
-npm i -D eslint
-npx eslint --init
-npm i -D eslint-plugin-prettier
-npm i -D eslint-config-prettier
-
-.vscode folder
-settings.json
 {
     "editor.formatOnPaste": true,
     "editor.defaultFormatter": "dbaeumer.vscode-eslint",
